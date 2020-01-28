@@ -1,6 +1,10 @@
 * Administrator Guide
-** xref:administrator-guides:update.adoc[Version update]
 ** Local Install
 *** xref:administrator-guides:install-requirements.adoc[Requirements]
 *** xref:administrator-guides:install-guide.adoc[Installation]
-
+** Update Guide (for Admins)
+*** xref:administrator-guides:update_guides/update.adoc[General nodes]
+*** xref:administrator-guides:update_guides/update_guide_2.x.adoc[Update to 2.x]
+*** xref:administrator-guides:update_guides/update_guide_1.2.x.adoc[Update to 1.2.x]
+*** xref:administrator-guides:update_guides/update_guide_1.1.x.adoc[Update to 1.1.x]
+*** xref:administrator-guides:update_guides/update_guide_1.0.x.adoc[Update to 1.0.x]

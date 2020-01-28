@@ -1,0 +1,11 @@
+= Update from 1.0.x to 1.1.x
+
+1.1.x requires Tailor https://github.com/opendevstack/tailor/releases/tag/v0.9.4[0.9.4].
+
+There are no further mandatory changes apart from the general procedure
+described above when updating from 1.0.x.
+
+Users are highly recommended to take a look at the updates done to the
+boilerplates, especially the `Jenkinsfile` and `Dockerfile`. E.g. the Python
+quickstarter is now building an image containing all dependencies instead of
+installing them during runtime.
